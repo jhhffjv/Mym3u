@@ -1,0 +1,42 @@
+#EXTM3U
+
+# --- Azərbaycan rəsmi kanalları ---
+
+#EXTINF:-1 tvg-id="aztv" tvg-name="AzTV" tvg-logo="https://aztv.az/logo.png" group-title="Azərbaycan",AzTV
+https://stream.aztv.az/live/aztv/index.m3u8
+
+#EXTINF:-1 tvg-id="ictimai" tvg-name="İctimai TV" tvg-logo="https://ictimai.az/logo.png" group-title="Azərbaycan",İctimai TV
+https://live.ictimai.tv/live/ictimai/index.m3u8
+
+#EXTINF:-1 tvg-id="arb" tvg-name="ARB TV" tvg-logo="https://arbtv.az/logo.png" group-title="Azərbaycan",ARB TV
+https://arb-tv.cdn.azmedia.az/live/arb/index.m3u8
+
+#EXTINF:-1 tvg-id="xazar" tvg-name="Xəzər TV" tvg-logo="https://xazar.tv/logo.png" group-title="Əyləncə",Xəzər TV
+https://stream.xazar.tv/live/xazar/index.m3u8
+
+#EXTINF:-1 tvg-id="cbc" tvg-name="CBC TV" tvg-logo="https://cbc.az/logo.png" group-title="Xəbərlər",CBC TV
+https://cbc.az/live/cbc/index.m3u8
+
+#EXTINF:-1 tvg-id="space" tvg-name="Space TV" tvg-logo="https://space.az/logo.png" group-title="Əyləncə",Space TV
+https://stream.space.az/live/space/index.m3u8
+
+#EXTINF:-1 tvg-id="dalga" tvg-name="Dalğa TV" tvg-logo="https://dalgatv.az/logo.png" group-title="Regional",Dalğa TV
+https://dalgatv.az/live/dalga/index.m3u8
+
+#EXTINF:-1 tvg-id="arb24" tvg-name="ARB 24" tvg-logo="https://arb24.az/logo.png" group-title="Xəbərlər",ARB 24
+https://arb24.cdn.azmedia.az/live/arb24/index.m3u8
+
+# --- Beynəlxalq kanallar (açıq mənbələrdən) ---
+
+#EXTINF:-1 tvg-id="trtworld" tvg-name="TRT World" tvg-logo="https://www.trtworld.com/logo.png" group-title="Beynəlxalq",TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="euronews" tvg-name="Euronews" tvg-logo="https://euronews.com/logo.png" group-title="Beynəlxalq",Euronews
+https://rakuten-euronews-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="russia24" tvg-name="Russia 24" tvg-logo="https://russia24.tv/logo.png" group-title="Beynəlxalq",Russia 24
+https://vgtrk-live-russia24.cdnvideo.ru/russia24/playlist.m3u8
+
+# --- Şəxsi kanallar üçün nümunə ---
+#EXTINF:-1 tvg-name="Mənim Kanalım" tvg-logo="https://example.com/logo.png" group-title="Seçilmişlər",Mənim Kanalım
+http://your-stream-link-here/playlist.m3u8
